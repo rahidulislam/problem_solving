@@ -22,5 +22,5 @@ elif a ** 2 < (b ** 2 + c ** 2):
     print("TRIANGULO ACUTANGULO")
 if a == b == c:
     print("TRIANGULO EQUILATERO")
-if a == b or b== c or a==c:
+elif a == b or b== c or a==c:
     print("TRIANGULO ISOSCELES")
